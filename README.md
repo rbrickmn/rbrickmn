@@ -2,7 +2,7 @@
 - 👀 I’m interested in front all things web :)
 - 🌱 I’m currently learning front end web development!
 - 💞️ I’m looking to collaborate on anything. It's the best learning tool ever.
-- 📫 email me @ rbrickmn@gmail.com <3
+- 📫 email me @ rbrickmn@gmail.com I'm open to work <3
 
 <!---
 rbrickmn/rbrickmn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
