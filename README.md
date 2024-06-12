@@ -29,7 +29,3 @@ Here's a glance at what I'm currently studying:
 
 - React testing w/ Jest
 - Redux
-
-## Contact Me 📧
-
-Reach my by email at: rbrickmn@gmail.com
