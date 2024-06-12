@@ -1,9 +1,35 @@
-# 💫 About Me:
-👨🏻‍💻 Working every day towards becoming a front-end developer!<br>⚡ Currently taking the front-end engineering career path on Codecademy<br>🎓 Studied at Tri-County Technical College in South Carolina, US (A.A.S In Computer Technology)<br>💬 Always looking for work to sharpen my skills. Let's chat!
+### I'm Riley Brickman 👋
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinity%20photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=rbrickmn&icon=5&color=8)](https://visitcount.itsvg.in)
+I am a front-end developer passionate about molding ideas into breathtaking digital experiences.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- My portfolio: https://rileybrickman.vercel.app/
+- My latest project: https://github.com/rbrickmn/mixmaster-app
+
+## Tech Stack 🌐
+
+**Front-end:** `React` `Redux` `Tailwind`
+
+**Testing:** `Jest`
+
+**Design:** `Affinity Photo` `Figma`
+
+## Education 🎓
+
+**2024-Present** \
+Front-End Engineer Career Path \
+_Codecademy_
+
+**2020-2022** \
+A.A.S in Computer Technology (Network Systems Management emphasis) \
+_Tri-County Technical College_
+
+## Currently Learning 👨‍💻
+
+Here's a glance at what I'm currently studying:
+
+- React testing w/ Jest
+- Redux
+
+## Contact Me 📧
+
+Reach my by email at: rbrickmn@gmail.com
