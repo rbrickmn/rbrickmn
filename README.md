@@ -3,7 +3,7 @@
 I am a front-end developer passionate about molding ideas into breathtaking digital experiences.
 
 - My portfolio: https://rileybrickman.vercel.app/
-- My latest project: https://github.com/rbrickmn/mixmaster-app
+- My latest project: https://syntaxsprint-app.vercel.app/
 
 ## Tech Stack 🌐
 
