@@ -15,7 +15,7 @@ I am a front-end developer passionate about molding ideas into breathtaking digi
 
 ## Education 🎓
 
-**2024-Present** \
+**Jan 2024-Nov 2024** \
 Front-End Engineer Career Path \
 _Codecademy_
 
