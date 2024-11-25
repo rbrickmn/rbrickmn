@@ -27,5 +27,4 @@ _Tri-County Technical College_
 
 Here's a glance at what I'm currently studying:
 
-- React testing w/ Jest
-- Redux
+- TypeScript
