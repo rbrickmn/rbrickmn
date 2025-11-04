@@ -11,7 +11,7 @@ I am a front-end developer passionate about molding ideas into breathtaking digi
 
 **Testing:** `Jest`
 
-**Design:** `Affinity Photo` `Figma` `WordPress` `Canva`
+**Design:** `Affinity` `Figma` `WordPress` `Canva`
 
 ## Education 🎓
 
