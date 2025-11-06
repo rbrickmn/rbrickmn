@@ -22,9 +22,3 @@ _Codecademy_
 **2020-2022** \
 A.A.S in Computer Technology (Network Systems Management emphasis) \
 _Tri-County Technical College_
-
-## Currently Learning 👨‍💻
-
-Here's a glance at what I'm currently studying:
-
-- Python
